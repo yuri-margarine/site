@@ -1,7 +1,7 @@
 ## M.S.P.M.
 
 Ceci est un test pour un merveilleux site internet.
-Ça marche ?
+Ça marche ? _Italic_Non, toujours pas…
 
 Ici seront expliquées les règles du jeu, accompagnées d'une description des fichiers joints, et des instructions pour les télécharger.
 
