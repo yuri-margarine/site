@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## M.S.P.M.
 
-You can use the [editor on GitHub](https://github.com/yuri-margarine/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ceci est un test pour un merveilleux site internet.
+
+Ici seront expliquées les règles du jeu, accompagnées d'une description des fichiers joints, et des instructions pour les télécharger.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
